@@ -48,4 +48,4 @@
 
 ## Today's Weather Forecast in My Hometown
 
-{{ template "weathers.md.template" }}
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
