@@ -47,4 +47,4 @@
 
 ## Today's Weather Forecast in My Hometown (Jaipur)
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+{{ template "weathers.md.tpl" }}
