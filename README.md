@@ -45,6 +45,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=priyanshu0007&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+
 
 
