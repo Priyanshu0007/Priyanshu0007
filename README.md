@@ -1,6 +1,10 @@
 <div align="center">
    <h1>Hi there, I'm Priyanshu Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <!-- Tech Stack -->
 ### 💻 Tech Stack:
